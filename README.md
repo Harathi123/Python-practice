@@ -7,4 +7,4 @@ Write a password generator in Python. Be creative with how you generate password
 Extra:
 Ask the user how strong they want their password to be. For weak passwords, pick a word or two from a list. 
 
-
+Software Requirements: Python 2.7
